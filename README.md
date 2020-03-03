@@ -22,7 +22,7 @@ Webpack configuration file
 The webpack.config.js file is the configuration file for webpack
 
 * webpack-dev-server:
-  * contentBase: Used to gzips and serves everything from our dist/ directory in the project root
+  * contentBase: Used to gzip and serve everything from our dist/ directory in the project root
   * Hot Module Replacement(HMR): For LiveReload replacement - exchanges, adds, or removes modules while an application is running, without a full reload. Enable this feature by setting its hot option to true:
   * Set open option to true - Tells dev-server to open default browser after server had been started.
 
